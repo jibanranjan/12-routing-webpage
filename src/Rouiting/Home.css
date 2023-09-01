@@ -1,0 +1,45 @@
+.main{
+    display: flex;
+    margin-top: 1rem;
+    padding: 3%;
+}
+
+.homeImg{
+    height: 28rem;
+    width: 50rem;
+}
+.left{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 3%;
+}
+
+.homeSlogan{
+    color: blue;
+    font-weight: bold;
+}
+
+.homepara{
+    margin-top: .5rem;
+    margin-bottom: 1rem;
+    font-weight: 400;
+}
+
+.profilebtn{
+    background-color: blue;
+    color: white;
+    border: none;
+    height: 2rem;
+    width: 7rem;
+    border-radius: 15px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+
+.watchbtn{
+    background-color: aliceblue;
+    border: none;
+    cursor: pointer;
+}
